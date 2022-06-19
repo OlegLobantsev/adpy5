@@ -1,0 +1,24 @@
+==================================================
+Date, time: 2022-06-19 15:46:40.289793
+Function name: flat_generator
+Input arguments: 
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', ['h', ['i']], False], [1, 2, None]],)
+kwargs:{}
+Result:
+<generator object flat_generator at 0x104e8a820>
+==================================================
+Date, time: 2022-06-19 15:46:43.192150
+Function name: flat_generator
+Input arguments: 
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', ['h', ['i']], False], [1, 2, None]],)
+kwargs:{}
+Result:
+<generator object flat_generator at 0x10075e820>
+==================================================
+Date, time: 2022-06-19 15:46:44.607386
+Function name: flat_generator
+Input arguments: 
+args: ([['a', 'b', 'c'], ['d', 'e', 'f', ['h', ['i']], False], [1, 2, None]],)
+kwargs:{}
+Result:
+<generator object flat_generator at 0x100596820>
